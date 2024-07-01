@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kремка</title>
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="img/favicon.png">
+    <link rel="shortcut icon" href="img/favicon.png">
+
+</head>
+<body>
+
+    <div class="display two">
+        <p><a href="records.html">Таблица рекордов </a><img src="img/candy.png" style="max-height: 2vw; max-width: 2vw;"><span> </span><span id="score"></span></p>
+    </div>
+    
+    <div class="display three">
+        <button id="startButton"><p>Нажми на кремку<br><br><img src="img/candy.png" class="loading-image"></p></button>
+        <button  id="records" class="restart" style="display: none; margin-top: -25vh;"><p>Нажми, для отправки рекорда</p></button>
+        <button id="restartButton" class="restart" style="display: none;  margin-bottom: -25vh;"><p>Леденец раскололся на кусочки, нажми, чтобы склеить</p></button>
+
+        <canvas id="game"></canvas>
+    </div>
+
+    <div class="display one">
+        <h1>Kремка <span class="color-text"> со вкусом клубники и сливок<span></h1> 
+    </div>
+
+    <script src="game.js"></script>
+
+</body>
+</html>
