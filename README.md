@@ -1,2 +1,2 @@
 Kremka
-https://bubenture.github.io/Bubenture-Kremka/
+https://bubenture.github.io/Kremka/
