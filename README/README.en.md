@@ -1,10 +1,10 @@
-<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
+<a href="../README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
 </br>
 # https://bubenture.github.io/kremka
 # Kremka
 
 
-![Image 0](img/0.png)
+![Image 0](../img/0.png)
 
 #### The site is an arcade game where the player controls a "lollipop" and defends against falling enemies, featuring support for various devices and a minimalist interface.
 
