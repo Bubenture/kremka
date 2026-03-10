@@ -1,16 +1,8 @@
+<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
+</br>
 # https://bubenture.github.io/kremka
 # Kremka
 
-</br>
-<div>
-    <a href="README.md">
-        <img src="https://img.shields.io/badge/README-RU-blue?color=006400&labelColor=006400&style=for-the-badge">
-    </a>
-    <a href="README.en.md">
-        <img src="https://img.shields.io/badge/README-ENG-blue?color=44944a&labelColor=1C2325&style=for-the-badge">
-    </a>
-</div>
-</br>
 
 ![Image 0](img/0.png)
 
